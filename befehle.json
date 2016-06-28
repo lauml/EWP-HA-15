@@ -1,0 +1,20 @@
+{
+	"data" : [
+				["git clone",
+				"Daten werden auf den lokalen Server geholt"
+				],
+				["git add",
+				"Änderungen werden gespeichert"
+				],
+				["git commit",
+				"Hiermit kann ein Kommentar/ eine Nachricht geschrieben werden"
+				],
+				["git push",
+				"Damit können die Änderungen hochgeladen werden"
+				],
+				["git pull",
+				"Hiermit können Änderungen geholt werden"
+				]
+			]
+
+}
